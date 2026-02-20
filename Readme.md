@@ -46,5 +46,3 @@
    ```bash
    python main.py
     ```
-
-    
